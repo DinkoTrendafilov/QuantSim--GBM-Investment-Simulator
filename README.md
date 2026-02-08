@@ -19,7 +19,7 @@ Installation
 bash
 
 # Clone the repository
-[git clone https://github.com/yourusername/quantsim-gbm.git](https://github.com/DinkoTrendafilov/QuantSim--GBM-Investment-Simulator/blob/main/gbm_investment_simulator.ipynb)
+(https://github.com/DinkoTrendafilov/QuantSim--GBM-Investment-Simulator/blob/main/gbm_investment_simulator.ipynb)
 cd quantsim-gbm
 
 # Install dependencies
